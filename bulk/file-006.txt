@@ -1,1 +1,1 @@
-fixture 006 before
+fixture 006 after
